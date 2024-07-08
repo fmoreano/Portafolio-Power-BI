@@ -1,6 +1,6 @@
-# Informe Power BI a cerca de la evolucion del cornavirus en el Ecuador y en el mundo.
+# Power BI Report on the Evolution of Coronavirus in Ecuador and Worldwide
 
-## Explicacion
+## Explication
 ![alt text](image-1.png)
 To generate these graphs, I integrated data from an official COVID-19 dataset hosted on GitHub. The dataset is sourced from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Here are the steps I followed:
 
