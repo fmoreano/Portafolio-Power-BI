@@ -3,13 +3,19 @@
 ## Case Study
 
 Abstract:
+![alt text](<Page 1-1.jpg>)
+
 This paper analyzes the dataset of passengers and crew members of the RMS Titanic, highlighting survival rates based on various factors such as sex, age, and passenger class. The dataset includes information about survival, demographics, and ticket fares.
 
 Introduction:
 The RMS Titanic was a British passenger liner that sank during its maiden voyage from Southampton to New York City in April 1912. This tragic event resulted in significant loss of life, with only a fraction of passengers and crew surviving.
 
 Data Overview:
-The dataset contains detailed records of 891 individuals on the Titanic, including their age, sex, survival status, passenger class, and fare. The key statistics from the dataset are as follows:
+The dataset contains detailed records of 891 individuals on the Titanic, including their age, sex, survival status, passenger class, and fare. 
+![alt text](<Page 2-1.jpg>)
+
+The key statistics from the dataset are as follows:
+![alt text](<Page 3-1.jpg>)
 
 Total individuals: 891
 Total survivors: 340 (38.2%)
